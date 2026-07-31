@@ -1,0 +1,14 @@
+db/
+incremental_db/
+hc_output/
+output_files/
+simulation/
+work/
+*.qpf
+*.qsf
+*.qws
+*.bak
+*.wlf
+*.mti
+*.mpf
+c5_pin_model_dump.txt
